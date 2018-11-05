@@ -1,0 +1,14 @@
+{
+  "name": "stack-implementation-example-tdd",
+  "version": "1.0.0",
+  "main": "stack.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jasmine": "^3.3.0"
+  }
+}
