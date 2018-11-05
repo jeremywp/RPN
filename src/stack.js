@@ -61,6 +61,7 @@ for (let i=0; i < rpnArray.length; i++){
             let result = operand1 + operand2;
             stack.push(result)
         }
+        else {stack.push(+element)}
     }
 }
 
